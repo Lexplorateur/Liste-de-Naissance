@@ -1,11 +1,11 @@
 
 const firebaseConfig = {
-    apiKey: "AIzaSyB3izdPmoxPUJtr_JTJ4IlPNi251g_qH5Y",
+    apiKey: "NON!!!",
     authDomain: "liste-de-naissance-406e5.firebaseapp.com",
     projectId: "liste-de-naissance-406e5",
     storageBucket: "liste-de-naissance-406e5.appspot.com",
-    messagingSenderId: "154708649767",
-    appId: "1:154708649767:web:0b93aa394f009bb6416b02"
+    messagingSenderId: "NON!!!",
+    appId: "NOOOOOON!!!"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
